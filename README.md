@@ -1,14 +1,14 @@
 # test
 
 test
-** voici un premier test **
+**voici un premier test**
 
 
 ### test 
 
-__ Un autre test __
+__Un autre test__
 
-*** gras et italique ***
+***gras et italique***
 
 voila un <sub>indce </sub>
 
